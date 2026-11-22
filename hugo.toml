@@ -85,7 +85,7 @@ darkmode = "dark"
   mobile = true
 
   # Order of widgets to display
-  widgets = ["search", "archive", "category", "tags", "social", "recent"]
+  widgets = ["pagefind", "archive", "category", "tags", "social", "recent"]
 
   [params.giscus]
   # Giscus Comment System
