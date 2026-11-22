@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hoge on czsyのLinux備忘録</title>
+		<link>http://localhost:1313/categories/hoge/</link>
+		<description>Recent content in Hoge on czsyのLinux備忘録</description>
+		<generator>Hugo</generator>
+		<language>ja</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 22 Nov 2026 10:35:31 +0900</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/categories/hoge/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Test</title>
+				<link>http://localhost:1313/posts/test/</link>
+				<pubDate>Sun, 22 Nov 2026 10:35:31 +0900</pubDate>
+				<guid>http://localhost:1313/posts/test/</guid>
+				<description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;&#xA;&lt;p&gt;これはテストです&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

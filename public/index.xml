@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>czsyのLinux備忘録</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on czsyのLinux備忘録</description>
+		<generator>Hugo</generator>
+		<language>ja</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>このブログについて</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;筆者 (czsy4096) は非プログラマーのLinuxユーザー。現在は&lt;a href=&#34;https://endeavouros.com/&#34;&gt;EndeavourOS&lt;/a&gt;（Arch Linuxベース）をメインに使用しています。Linux歴そのものはそこそこの長さ（弊ブログ開設時点でメインOSにしてから10年くらい）ですがプライベートで使用しているのみで（職業はコンピュータ関連ではない）、Linuxユーザーらしい (?) 「プロっぽい」ことはほとんどしていません。以前から無料のブログサービスを利用して日々のLinux PC利用で困ったり気になったりして調べたことをメモがてら共有していましたが、更新が減ってサービス側からブログの消去を予告されたのを機により自分で管理できる範囲の広いやり方として「静的サイトジェネレーター + Netlifyへのデプロイ」という方法にチャレンジしてみることにしました。当面はブログ構築そのものを目標とし、内容は古いものの転載をメインとしていくことになる予定です。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/archives/</link>
+				<pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/archives/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
