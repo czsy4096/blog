@@ -25,7 +25,7 @@ enableRobotsTXT = true
 base_color = "bg-gray-800"
 
 #Site description
-description = "Blonde theme for Hugo."
+description = "czsy4096による備忘録的ブログ"
 
 # The number of articles to be displayed on a single page.
 paginator_pages = 5
@@ -131,13 +131,13 @@ darkmode = "dark"
 [menu]
   [[menu.main]]
   identifier = "home"
-  name = "Home"
+  name = "ホーム"
   url = "/"
   weight = 1
 
   [[menu.main]]
   identifier = "about"
-  name = "About"
+  name = "このブログについて"
   url = "/about/"
   weight = 2
 
