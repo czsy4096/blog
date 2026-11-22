@@ -197,3 +197,9 @@ archive = "archives"
 [security]
   [security.exec]
   allow = ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
+
+
+# Netlifyのためのキャッシュ設定
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
